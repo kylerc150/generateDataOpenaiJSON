@@ -1,4 +1,4 @@
-# generateDataOpenaiJSON
+# Generate Data - Openai JSON
 This project interacts with openai API and generates random JSON data.
 
 ### This GitHub contains comments, code, and screenshots of results.
